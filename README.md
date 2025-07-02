@@ -1,9 +1,4 @@
-# Projeto-Login
-Página Login - Projeto Educacional
-
----
-
-## 🔐 Página de Login Responsiva
+# 🔐 Página de Login Responsiva
 
 Este projeto é uma página de **login responsiva** desenvolvida como parte de um projeto educacional. A proposta é desenvolver em **HTML5**, **CSS3** um **design responsivo**, com uso de **media queries**, aplicados em uma interface de autenticação moderna.
 
