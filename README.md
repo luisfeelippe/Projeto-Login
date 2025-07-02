@@ -5,11 +5,11 @@ Página Login - Projeto Educacional
 
 ## 🔐 Página de Login Responsiva
 
-Este projeto é uma página de **login responsiva** desenvolvida como parte de um projeto educacional. A proposta é praticar os conceitos de **HTML5**, **CSS3**, **design responsivo**, e uso de **media queries**, aplicados em uma interface de autenticação moderna.
+Este projeto é uma página de **login responsiva** desenvolvida como parte de um projeto educacional. A proposta é desenvolver em **HTML5**, **CSS3** um **design responsivo**, com uso de **media queries**, aplicados em uma interface de autenticação moderna.
 
 ## 📸 Demonstração
 
-👉 Acesse a página publicada: [🔗 Link para visualização (abre em nova aba)](https://luisfeelippe.github.io/Projeto-Login/index.html)
+👉 Acesse a página publicada: [🔗 Link para visualização ](https://luisfeelippe.github.io/Projeto-Login/index.html)
 
 ---
 
@@ -54,8 +54,7 @@ Tela-Login/
 ## ✍️ Autor
 
 **Luis Felipe**  
-🔗 [GitHub](https://github.com/luisfeelippe)  
-🔗 [LinkedIn](https://www.linkedin.com/in/luisfeelippe)
+🔗 [GitHub](https://github.com/luisfeelippe)  🔗 [LinkedIn](https://www.linkedin.com/in/luisfeelippe)
 
 ---
 
